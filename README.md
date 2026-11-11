@@ -4,6 +4,7 @@
   - `mental_ill.csv` — Data on mental disorders across different regions.
   - `dealing.csv` — Data on stress-coping strategies.
   - `phone_addiction.csv` — Data on smartphone usage, sleep duration, and anxiety levels.
+  - `popular names 2025.csv` — Data on Ukrainian popular names in 2025.
 * **Visualizations:** Bar chart, pie chart, radar chart, heatmap (anxiety vs. sleep/phone usage), scatter plot, and network graph.
 * **Required R Packages:** `tidyverse`, `RColorBrewer`, `fmsb`, `viridis`, `igraph`.
 
